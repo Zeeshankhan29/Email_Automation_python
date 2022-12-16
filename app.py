@@ -7,7 +7,7 @@ port = 465
 smtp_server ='smtp.gmail.com'
 
 sender_email='zeeshankhan29khan@gmail.com'
-password ='ahvyhvntqgwejqqv'
+password =''
 
 reciever_email =["zeeshankhan29khan@gmail.com","faizankhan29khan@gmail.com"]
 
