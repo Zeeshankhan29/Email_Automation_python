@@ -26,3 +26,4 @@ Conclusion
 It saves lots of time adopting this automation techniques
 
 ```
+![image](https://user-images.githubusercontent.com/95518247/208054577-2e492792-fafe-428d-93e9-515d7f515965.png)
